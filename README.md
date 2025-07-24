@@ -1,4 +1,4 @@
-# Qpedia
+# Qpedia-App
 
 **Qpedia** is an open-source Flutter application designed to provide students with a mobile platform to access educational resources, including question papers and lecture notes, hosted on [qpedia.vercel.app](https://qpedia.vercel.app/). The app features an intuitive UI with animated transitions, dynamic navigation, and seamless PDF viewing, making academic content easily accessible on the go.
 
